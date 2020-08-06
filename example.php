@@ -79,4 +79,4 @@ $Bot->answer("callback_query", function ($Update) use ($Bot) {
     }
 });
 
-$Bot->handler("1145282131:AAESHOxq5LTBEbGu8kc0EWaPQRFZ5e9nz-E"); 
+$Bot->handler("1034832750:AAH_xRaKhbG2hs66j5NNMTKNJ4Zn4SMAnH4"); 
