@@ -1,23 +1,9 @@
 {
-  "name": "pmChatBot",
-  "description": "Livegram clone",
+  "name": "kursaad",
+  "description": "asdasd",
   "keywords": [
     "telegram",
-    "bot",
-    "php"
+    "bot"
   ],
-  "website": "https://quiec.tech/",
-  "repository": "https://github.com/quiec/pmChatBot",
-  "logo": "https://www.pngmart.com/files/11/Chat-Logo-PNG-Image.png",
-  "env": {
-    "BOT_TOKEN": {
-      "description": "Bot token",
-      "required": true
-    }
-  },
-  "addons": [
-    {
-      "plan": "heroku-postgresql"
-    }
-  ]
+  "repository": "https://github.com/kursadhd/boting",
 }
