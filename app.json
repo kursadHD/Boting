@@ -1,16 +1,28 @@
 {
-  "name": "fsdag",
-  "description": "gsdag",
+  "name": "pmChatBot",
+  "description": "Livegram clone",
   "keywords": [
     "telegram",
     "bot",
     "php"
   ],
-  "website": "https://kursad.tech/",
-  "repository": "https://github.com/kursadhd/Boting",
-  "logo": "",
+  "website": "https://quiec.tech/",
+  "repository": "https://github.com/quiec/pmChatBot",
+  "logo": "https://www.pngmart.com/files/11/Chat-Logo-PNG-Image.png",
   "env": {
-
+    "BOT_TOKEN": {
+      "description": "Bot token",
+      "required": true
+    },
+    "DB_TUR": {
+      "description": "db or json",
+      "value": "db",
+      "required": false
+    },
+    "ADMIN_ID": {
+      "description": "admin id",
+      "value": "452321614",
+      "required": false
     }
   },
   "addons": [
