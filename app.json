@@ -1,16 +1,21 @@
 {
-  "name": "Small Sharp Tool",
-  "description": "This app does one little thing, and does it well.",
+  "name": "fsdag",
+  "description": "gsdag",
   "keywords": [
-    "productivity",
-    "HTML5",
-    "scalpel"
+    "telegram",
+    "bot",
+    "php"
   ],
-  "website": "https://small-sharp-tool.com/",
-  "repository": "https://github.com/jane-doe/small-sharp-tool",
-  "logo": "https://small-sharp-tool.com/logo.svg",
-  "success_url": "/welcome",
+  "website": "https://kursad.tech/",
+  "repository": "https://github.com/kursadhd/Boting",
+  "logo": "",
+  "env": {
 
-
- 
+    }
+  },
+  "addons": [
+    {
+      "plan": "heroku-postgresql"
+    }
+  ]
 }
