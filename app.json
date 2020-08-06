@@ -1,9 +1,16 @@
 {
-  "name": "kursaad",
-  "description": "asdasd",
+  "name": "Small Sharp Tool",
+  "description": "This app does one little thing, and does it well.",
   "keywords": [
-    "telegram",
-    "bot"
+    "productivity",
+    "HTML5",
+    "scalpel"
   ],
-  "repository": "https://github.com/kursadhd/boting",
+  "website": "https://small-sharp-tool.com/",
+  "repository": "https://github.com/jane-doe/small-sharp-tool",
+  "logo": "https://small-sharp-tool.com/logo.svg",
+  "success_url": "/welcome",
+
+
+ 
 }
