@@ -12,7 +12,7 @@
   "env": {
     "BOT_TOKEN": {
       "description": "Bot token",
-      "required": true
+      "required": false
     },
     "DB_TUR": {
       "description": "db or json",
